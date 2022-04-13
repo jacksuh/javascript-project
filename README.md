@@ -1,4 +1,4 @@
-# Java Script - Basico
+# JavaScript - Basico
 
 Ideia do projeto foi testar o funcionamento dos eventos e funções.
 
